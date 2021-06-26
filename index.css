@@ -1,0 +1,19 @@
+table{
+    padding:20px;
+    border:solid 1px indianred;
+    border-collapse :collapse;
+}
+tr{
+    padding:20px;
+    border: 1px solid indianred;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 20px;
+    border: indigo;
+    border-collapse: collapse;
+}
+table{
+    text-align: center;
+    background-color: lightcoral;
+}
